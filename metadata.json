@@ -1,0 +1,5 @@
+{
+  "name": "The Prime Lab",
+  "description": "An arcade-style math journey where players unlock items via AI-generated quizzes and battle through arithmetic challenges.",
+  "requestFramePermissions": []
+}
